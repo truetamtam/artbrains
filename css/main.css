@@ -1,0 +1,50 @@
+ div.page-header{
+    margin: 0;
+    padding: 0;
+}
+.post-brief {
+    padding-bottom: 20px;
+}
+.post-brief-tags {
+    color: #b7b7b7;
+}
+.post-comment {
+    background-color: #f7f7f7;
+    border-radius: 3px;
+    margin: 5px 0;
+    padding: 12px 10px;
+}
+.portlet-comment {
+    font-size: 12px;
+}
+.portlet-comment span {
+    color: #d3d3d3;
+}
+.post-header a {
+    color: #565656;
+    text-decoration: underline;
+}
+
+.post-header a:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+.post-header a:visited {
+    color: #b9b9b9;
+}
+
+#gallery .thumb-info {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    min-width: 240px;
+    height: 25%;
+    background-color: rgba(244, 22, 86, 0.7);
+}
+
+#gallery ul li .btn-go {
+    position: absolute;
+    bottom: 25%;
+    right: 5%;
+}

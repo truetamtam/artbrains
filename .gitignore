@@ -1,0 +1,6 @@
+assets/
+docs/tmp/
+images/uploads/
+protected/extensions/
+protected/modules/
+protected/runtime/cache/
