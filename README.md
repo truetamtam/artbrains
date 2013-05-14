@@ -3,9 +3,11 @@
 <p>version: yii-1.1.13.e9e4a0</p>
 
 <h3>Yii extensions</h3>
-<a href="https://github.com/clevertech/YiiBooster">yiibooster::wip-1.0.5</a>
-<a href="http://www.yiiframework.com/extension/ephpthumb">ephpthumb</a>
-<a href="http://www.yiiframework.com/extension/xupload">xupload</a>
+<ul>
+  <li><a href="https://github.com/clevertech/YiiBooster">yiibooster::wip-1.0.5</a></li>
+  <li><a href="http://www.yiiframework.com/extension/ephpthumb">ephpthumb</a></li>
+  <li><a href="http://www.yiiframework.com/extension/xupload">xupload</a></li>
+</ul>
 
 <h3>Yii modules</h3>
 <ul>
@@ -14,10 +16,11 @@
 </ul>
 
 <h3>git exclude paths</h3>
-
-assets/
-docs/tmp/
-images/uploads/
-protected/extensions/
-protected/modules/
-protected/runtime/cache/
+<ul>
+  <li>ulip</li>
+  <li>docs/tmp/</li>
+  <li>images/uploads/</li>
+  <li>protected/extensions/</li>
+  <li>protected/modules/</li>
+  <li>protected/runtime/cache/</li>
+</ul>
