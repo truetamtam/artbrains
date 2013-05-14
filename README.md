@@ -17,7 +17,7 @@
 
 <h3>git exclude paths</h3>
 <ul>
-  <li>ulip</li>
+  <li>assets/</li>
   <li>docs/tmp/</li>
   <li>images/uploads/</li>
   <li>protected/extensions/</li>
