@@ -1,17 +1,20 @@
-===* platform *===
-name: Yii framework
-version: yii-1.1.13.e9e4a0
+<h1>artbrains.ru</h1>
+<p>Using Yii framework</p>
+<p>version: yii-1.1.13.e9e4a0</p>
 
-===* yii extensions *===
-yiibooster::wip-1.0.5
-ephpthumb
-xupload
+<h3>Yii extensions</h3>
+<a href="https://github.com/clevertech/YiiBooster">yiibooster::wip-1.0.5</a>
+<a href="http://www.yiiframework.com/extension/ephpthumb">ephpthumb</a>
+<a href="http://www.yiiframework.com/extension/xupload">xupload</a>
 
-===* yii modules *===
-user::0.3-61-gfc69518
-blog
+<h3>Yii modules</h3>
+<ul>
+  <li><a href="http://www.yiiframework.com/extension/yii-user">yii-user</a></li>
+  <li>blog</li>
+</ul>
 
-===* git exclude paths *===
+<h3>git exclude paths</h3>
+
 assets/
 docs/tmp/
 images/uploads/
