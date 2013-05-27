@@ -5,3 +5,4 @@ images/uploads/
 protected/extensions/
 protected/modules/
 protected/runtime/cache/
+protected/config/main.php

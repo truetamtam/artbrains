@@ -114,12 +114,12 @@ return array(
         // uncomment the following to use a MySQL database
 
         'db' => array(
-            'username' => 'kastry17_mysql',
-            'password' => '1rdesnwp',
+            'username' => 'root',
+            'password' => '',
             'charset' => 'utf8',
             'tablePrefix' => 'ptf_',
 
-            'connectionString' => 'mysql:host=kastry17.mysql;dbname=kastry17_db',
+            'connectionString' => 'mysql:host=localhost;dbname=artbrains5',
             'schemaCachingDuration' => 86400,
             // 'enableProfiling'=>true,
             // 'enableParamLogging'=>true,

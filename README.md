@@ -23,4 +23,5 @@
   <li>protected/extensions/</li>
   <li>protected/modules/</li>
   <li>protected/runtime/cache/</li>
+  <li>protected/config/main.php</li>
 </ul>

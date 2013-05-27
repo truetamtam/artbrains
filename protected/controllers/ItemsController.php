@@ -31,6 +31,7 @@ class ItemsController extends SecureController
     public function filters()
     {
         return array(
+            'accessControl',
             array(
                 'COutputCache +index',
                 'duration' => 24*3600*365,
